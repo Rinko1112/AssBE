@@ -7,6 +7,7 @@ E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\MinecraftBackend.dll
 E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\MinecraftBackend.pdb
 E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\Azure.Core.dll
 E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\Azure.Identity.dll
+E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 E:\MinecraftBackend\MinecraftBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -55,6 +56,7 @@ E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\MinecraftBackend.AssemblyI
 E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\MinecraftBackend.csproj.CoreCompileInputs.cache
 E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\MinecraftBackend.MvcApplicationPartsAssemblyInfo.cs
 E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\MinecraftBackend.MvcApplicationPartsAssemblyInfo.cache
+E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\MinecraftBackend.sourcelink.json
 E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\rjimswa.dswa.cache.json
 E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 E:\MinecraftBackend\MinecraftBackend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
